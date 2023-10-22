@@ -26,4 +26,4 @@ software
 
 ## here the required screen shot
 
-![Alt text](https://github.com/Peter-Anton/peter_MindCloud.git/photo.png)
+![](https://github.com/Peter-Anton/peter_MindCloud/blob/master/photo.png)
